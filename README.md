@@ -21,7 +21,7 @@ Just create a `composer.json` file for your project:
 ```json
 {
     "require": {
-        "kphoen/gaufrette-extras": "~1.0"
+        "kphoen/gaufrette-extras": "~1.1"
     },
     "repositories": [
         {
