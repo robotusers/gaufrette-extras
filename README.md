@@ -22,7 +22,13 @@ Just create a `composer.json` file for your project:
 {
     "require": {
         "kphoen/gaufrette-extras": "~1.0"
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/robotusers/gaufrette-extras"
+        }
+    ],
 }
 ```
 
