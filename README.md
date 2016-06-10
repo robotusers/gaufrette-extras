@@ -7,9 +7,9 @@ Gaufrette Extras [![Build Status](https://travis-ci.org/K-Phoen/gaufrette-extras
 Status
 ======
 
-This project is **DEPRECATED** and should NOT be used. 
+The original project at [K-Phoen/gaufrette-extras](https://github.com/K-Phoen/gaufrette-extras) has been deprecated. 
 
-If someone magically appears and wants to maintain this project, I'll gladly give access to this repository.
+This fork intends to keep it alive for some time.
 
 Installation
 ============
